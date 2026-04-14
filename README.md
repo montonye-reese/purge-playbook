@@ -25,7 +25,7 @@ This is not a series of isolated incidents. It is a practice refined through ite
 | | Blocked | Purge stood | Won election |
 |---|---|---|---|
 | **Count** | 3 (FL '04, MI '08, AL '24) | 5 (GA '08, post-Shelby, Brooklyn '16, WI '19, Shelby itself) | 2 (FL '00, GA '18) |
-| **What happened next** | Strategy was refined and retried | No reinstatement, no accountability | Margins smaller than purge count |
+| **What happened next** | Strategy becomes a lesson for other efforts | No reinstatement, no accountability | Margins smaller than purge count |
 
 **When it works, it wins elections. When it's blocked, they try again. When it stands, nobody unwinds it.**
 

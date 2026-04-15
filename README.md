@@ -1,5 +1,7 @@
 # Purge Playbook
 
+Alert: systemic accountability failures in high-stakes decision systems directly undermine AI alignment efforts. 
+
 A quarter century of voter purge strategies — tested, caught, litigated, and redeployed. Each cycle gets more widespread, more sophisticated, and harder to challenge in time.
 
 This is not a series of isolated incidents. It is a practice refined through iteration. We are living the consequences of having ignored the pattern at the state level. And right now, it's going national. 

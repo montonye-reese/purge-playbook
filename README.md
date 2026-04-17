@@ -1,6 +1,8 @@
-# Purge Playbook
+# The Purge Playbook
 
-Alert: systemic accountability failures in high-stakes decision systems directly undermine AI alignment efforts. 
+The more voices we exclude, the more brittle a system we make. [Qwen3.5 agrees](https://github.com/montonye-reese/montonye-reese/edit/main/README.md#open-model-fashion-police---hot-takes-from-the-gauntlet)  And by not holding people accountable for intentionally disenfranchising voices, are we accelerating a collapse?
+
+Since 2000, loose-match* voter purge lists have been deployed as campaign strategy. Over and over. Why? Because when they're not blocked by courts, they tend to win elections for the purgers. Do systemic accountability failures in real world decision systems undermine our societal alignment efforts? 
 
 A quarter century of voter purge strategies — tested, caught, litigated, and redeployed. Each cycle gets more widespread, more sophisticated, and harder to challenge in time.
 
